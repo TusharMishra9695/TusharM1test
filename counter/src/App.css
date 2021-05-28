@@ -1,0 +1,35 @@
+.App{
+
+  background-color: rgba(214, 191, 57, 0.918);
+  width: 50%;
+  height: 40vh;
+margin-left: 25%;
+margin-top: 10%;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+input{
+  height: 55px;
+  width: 55px;
+  border: none;
+}
+.sp{
+  padding-top: 10px;
+margin-left: 25%;
+  font-size: 25px;
+  font-weight: 600;
+}
+button{
+  padding-bottom: 8px;
+  height: 58px ;
+  width: 90px;
+  background-color: navy;
+  border: none;
+  color: whitesmoke;
+  font-size: 20px;
+}
