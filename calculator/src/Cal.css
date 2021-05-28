@@ -1,0 +1,53 @@
+button{
+    display: flex;
+    height: 2em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color:whitesmoke;
+    color:black;
+    outline: 0.1px solid brown;
+    font-size: 40px;
+}
+.but{
+ background-color:rgb(119, 21, 21);
+ color: white;
+}
+.App{
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width:100%;
+}
+.cal{
+    width:400px;
+    height: 600px;
+}
+
+.row{
+    display: flex;
+    width: 80%;
+}
+input{
+    height:4.5em;
+    background-color: black;
+    outline: 1px solid brown;
+    color: white;
+  width: 75.6%;
+    padding: 0.5em;
+    font-weight: 2em;
+    align-items: center;
+}
+::placeholder{
+padding-left: 90%;
+    font-size: 50px;
+}
+.row2{
+    float: left;
+width: 40%;
+}
+.row3{
+    float: left;
+width: 20%;
+}
